@@ -32,7 +32,7 @@ plt.xlabel('Sleeping method')
 plt.ylabel('Number of nightly wakes')
 plt.xticks(rotation=20)
 plt.tight_layout()
-#plt.show()
+plt.show()
 
 # Conducting a Kruskal-Wallis test (non-parametric one-way ANOVA)
 

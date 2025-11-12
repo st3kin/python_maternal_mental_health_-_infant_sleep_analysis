@@ -31,7 +31,7 @@ plt.xlabel("Infant Age Group")
 plt.ylabel("Number of Nightly Wakes")
 plt.xticks(rotation=15)
 plt.tight_layout()
-#plt.show()
+plt.show()
 
 # Conducting a Kruskal-Wallis test
 
