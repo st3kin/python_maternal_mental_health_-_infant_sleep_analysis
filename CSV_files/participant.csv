@@ -1,0 +1,411 @@
+participant_number,age,marital_status,education,infant_gestational_age,pregnancy_type,infant_sex,infant_age_category,infant_nightly_sleep_duration,infant_wakes_per_night,infant_sleeping_method
+1.0,34.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Female,3-6 months,10.0,3.0,While being rocked
+2.0,33.0,In a relationship,Bachelor's degree or above,42.0,Single pregnancy,Male,9-12 months,11.0,0.0,Alone in the crib
+3.0,37.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,3-6 months,12.0,1.0,While being rocked
+4.0,31.0,In a relationship,Bachelor's degree or above,37.5,Single pregnancy,Male,9-12 months,11.0,2.0,While being fed
+5.0,36.0,Single,Bachelor's degree or above,40.0,Single pregnancy,Male,9-12 months,10.5,1.0,Alone in the crib
+6.0,32.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,3-6 months,12.0,0.0,Alone in the crib
+7.0,28.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Male,9-12 months,10.0,1.0,Alone in the crib
+8.0,34.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,9-12 months,10.0,1.0,Alone in the crib
+9.0,32.0,In a relationship,Bachelor's degree or above,41.3,Single pregnancy,Female,3-6 months,10.0,1.0,While being rocked
+10.0,34.0,Single,Post-compulsory education (i.e. apprenticeship),37.2,Single pregnancy,Female,9-12 months,11.0,0.0,Alone in the crib
+11.0,24.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Male,9-12 months,12.0,3.0,While being rocked
+12.0,26.0,In a relationship,Bachelor's degree or above in STEM field,39.4,Single pregnancy,Male,6-9 months,10.0,2.0,Alone in the crib
+13.0,24.0,In a relationship,Bachelor's degree or above,35.0,Single pregnancy,Male,6-9 months,11.0,0.0,Alone in the crib
+14.0,20.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.5,Single pregnancy,Male,9-12 months,12.0,0.0,Alone in the crib
+15.0,26.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,9-12 months,10.0,2.0,While being fed
+16.0,32.0,In a relationship,Compulsory education,37.0,Single pregnancy,Female,6-9 months,12.0,1.0,Alone in the crib
+17.0,26.0,In a relationship,Bachelor's degree or above,39.4,Single pregnancy,Female,6-9 months,12.0,0.0,Alone in the crib
+18.0,26.0,In a relationship,Bachelor's degree or above,39.4,Single pregnancy,Male,9-12 months,8.0,1.0,In the crib with parental presence
+19.0,24.0,In a relationship,Bachelor's degree or above,41.3,Single pregnancy,Female,9-12 months,12.0,0.0,Alone in the crib
+20.0,27.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Female,9-12 months,6.0,2.0,While being fed
+21.0,23.0,In a relationship,Bachelor's degree or above,40.5,Single pregnancy,Female,9-12 months,12.0,0.0,Alone in the crib
+22.0,28.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.5,Single pregnancy,Female,6-9 months,6.0,1.0,Alone in the crib
+23.0,26.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,6-9 months,8.0,0.0,While being rocked
+24.0,41.0,In a relationship,Bachelor's degree or above in STEM field,36.0,Single pregnancy,Male,6-9 months,11.0,1.0,While being fed
+25.0,29.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Female,6-9 months,12.0,0.0,Alone in the crib
+26.0,27.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,6-9 months,11.0,0.0,Alone in the crib
+27.0,27.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Female,6-9 months,10.0,2.0,Alone in the crib
+28.0,29.0,In a relationship,Bachelor's degree or above,40.4,Single pregnancy,Female,6-9 months,10.0,1.0,Alone in the crib
+29.0,39.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.5,Single pregnancy,Male,6-9 months,10.0,2.0,While being rocked
+30.0,25.0,In a relationship,Bachelor's degree or above,39.5,Single pregnancy,Male,9-12 months,12.0,0.0,Alone in the crib
+31.0,29.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Female,9-12 months,11.0,0.0,While being fed
+32.0,27.0,In a relationship,Bachelor's degree or above in STEM field,39.5,Single pregnancy,Male,9-12 months,10.0,0.0,Alone in the crib
+33.0,30.0,In a relationship,Bachelor's degree or above,38.2,Single pregnancy,Male,9-12 months,10.0,1.0,While being rocked
+34.0,31.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,9-12 months,12.0,0.0,Alone in the crib
+35.0,36.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Male,3-6 months,11.0,0.0,Alone in the crib
+36.0,29.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Male,6-9 months,9.0,2.0,Alone in the crib
+37.0,32.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.0,Single pregnancy,Female,6-9 months,11.0,1.0,While being fed
+38.0,27.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.4,Single pregnancy,Male,3-6 months,9.0,3.0,While being fed
+39.0,30.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,9-12 months,7.0,0.0,In the crib with parental presence
+40.0,22.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.5,Single pregnancy,Male,3-6 months,12.0,0.0,While being rocked
+41.0,34.0,In a relationship,Bachelor's degree or above,39.2,Single pregnancy,Male,6-9 months,11.0,2.0,Alone in the crib
+42.0,42.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,3-6 months,10.5,2.0,While being fed
+43.0,35.0,"Separated, divorced or widowed",Post-compulsory education (i.e. apprenticeship),35.0,Single pregnancy,Female,9-12 months,10.5,0.0,Alone in the crib
+44.0,36.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,9-12 months,9.5,1.0,While being fed
+45.0,43.0,In a relationship,Compulsory education,38.6,Single pregnancy,Female,6-9 months,10.5,1.0,While being rocked
+46.0,27.0,In a relationship,Bachelor's degree or above in STEM field,37.0,Single pregnancy,Male,6-9 months,11.0,2.0,While being held
+47.0,32.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Male,6-9 months,10.0,3.0,While being rocked
+48.0,26.0,In a relationship,Compulsory education,41.2,Single pregnancy,Male,6-9 months,12.0,0.0,Alone in the crib
+49.0,29.0,In a relationship,Bachelor's degree or above in STEM field,40.0,Single pregnancy,Male,3-6 months,11.0,0.0,While being fed
+50.0,21.0,Single,No education,42.0,Single pregnancy,Female,9-12 months,7.0,2.0,While being rocked
+51.0,34.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Female,6-9 months,10.0,1.0,Alone in the crib
+52.0,37.0,Single,Bachelor's degree or above in STEM field,42.2,Single pregnancy,Male,9-12 months,9.5,3.0,Alone in the crib
+53.0,31.0,In a relationship,Compulsory education,39.4,Single pregnancy,Male,6-9 months,10.0,4.0,While being fed
+54.0,34.0,In a relationship,Bachelor's degree or above in STEM field,38.5,Single pregnancy,Female,6-9 months,11.0,0.0,Alone in the crib
+55.0,40.0,In a relationship,Bachelor's degree or above,41.5,Single pregnancy,Male,9-12 months,5.0,5.0,While being rocked
+56.0,27.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,6-9 months,10.0,1.0,Alone in the crib
+57.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.0,Single pregnancy,Male,6-9 months,10.5,1.0,Alone in the crib
+58.0,28.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.4,Single pregnancy,Female,9-12 months,12.0,1.0,Alone in the crib
+59.0,34.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,6-9 months,8.0,3.0,While being fed
+60.0,28.0,Single,Post-compulsory education (i.e. apprenticeship),39.2,Single pregnancy,Male,9-12 months,12.0,0.0,Alone in the crib
+61.0,32.0,In a relationship,Bachelor's degree or above,39.4,Single pregnancy,Male,9-12 months,10.0,1.0,In the crib with parental presence
+62.0,26.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,9-12 months,10.0,0.0,Alone in the crib
+63.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.0,Single pregnancy,Female,3-6 months,10.0,0.0,Alone in the crib
+64.0,26.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.5,Single pregnancy,Female,9-12 months,12.0,1.0,While being fed
+65.0,28.0,In a relationship,Bachelor's degree or above in STEM field,42.0,Single pregnancy,Male,9-12 months,10.5,1.0,In the crib with parental presence
+66.0,28.0,In a relationship,Post-compulsory education (i.e. apprenticeship),35.4,Twin pregnancy,Female,3-6 months,12.0,0.0,Alone in the crib
+67.0,25.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.5,Single pregnancy,Male,3-6 months,9.0,3.0,While being fed
+68.0,24.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.1,Single pregnancy,Male,9-12 months,9.0,5.0,While being fed
+69.0,21.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.0,Single pregnancy,Female,9-12 months,12.0,1.0,Alone in the crib
+70.0,39.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Female,9-12 months,10.5,2.0,Alone in the crib
+71.0,26.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.5,Single pregnancy,Female,9-12 months,11.0,0.0,Alone in the crib
+72.0,28.0,In a relationship,Bachelor's degree or above,32.0,Single pregnancy,Male,6-9 months,9.0,2.0,While being rocked
+73.0,31.0,Single,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Female,3-6 months,10.0,5.0,While being fed
+74.0,28.0,In a relationship,Bachelor's degree or above,39.4,Single pregnancy,Female,6-9 months,11.0,0.0,Alone in the crib
+75.0,34.0,In a relationship,Bachelor's degree or above in STEM field,36.2,Single pregnancy,Male,9-12 months,12.0,0.0,Alone in the crib
+76.0,29.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,9-12 months,11.5,2.0,While being fed
+77.0,30.0,Single,Bachelor's degree or above,39.0,Single pregnancy,Male,6-9 months,9.0,1.0,While being rocked
+78.0,32.0,In a relationship,Bachelor's degree or above in STEM field,40.0,Single pregnancy,Female,9-12 months,12.0,1.0,Alone in the crib
+79.0,31.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,6-9 months,11.5,0.0,Alone in the crib
+80.0,32.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Male,9-12 months,11.0,0.0,Alone in the crib
+81.0,22.0,In a relationship,Compulsory education,40.0,Single pregnancy,Male,9-12 months,11.0,0.0,Alone in the crib
+82.0,24.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.6,Single pregnancy,Female,9-12 months,11.0,5.0,Alone in the crib
+83.0,30.0,In a relationship,Bachelor's degree or above in STEM field,39.1,Single pregnancy,Male,9-12 months,11.0,1.0,Alone in the crib
+84.0,32.0,In a relationship,Post-compulsory education (i.e. apprenticeship),37.6,Single pregnancy,Male,6-9 months,10.5,0.0,Alone in the crib
+85.0,32.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Female,9-12 months,11.0,6.0,While being held
+86.0,25.0,In a relationship,Compulsory education,41.5,Single pregnancy,Male,9-12 months,12.0,0.0,Alone in the crib
+87.0,27.0,In a relationship,No education,41.0,Single pregnancy,Male,6-9 months,11.5,0.0,Alone in the crib
+88.0,37.0,In a relationship,Bachelor's degree or above,40.2,Single pregnancy,Male,9-12 months,12.0,0.0,While being rocked
+89.0,33.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Female,6-9 months,11.0,1.0,While being fed
+90.0,32.0,Single,Post-compulsory education (i.e. apprenticeship),38.0,Single pregnancy,Male,6-9 months,12.0,1.0,While being rocked
+91.0,27.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,9-12 months,11.0,0.0,In the crib with parental presence
+92.0,30.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,6-9 months,8.0,3.0,Alone in the crib
+93.0,23.0,Single,Post-compulsory education (i.e. apprenticeship),42.0,Single pregnancy,Male,6-9 months,10.0,4.0,In the crib with parental presence
+94.0,30.0,In a relationship,Bachelor's degree or above in STEM field,40.0,Single pregnancy,Male,6-9 months,10.5,0.0,Alone in the crib
+95.0,33.0,"Separated, divorced or widowed",Post-compulsory education (i.e. apprenticeship),39.4,Single pregnancy,Male,3-6 months,7.0,1.0,Alone in the crib
+96.0,26.0,In a relationship,Bachelor's degree or above in STEM field,37.3,Single pregnancy,Female,3-6 months,8.0,6.0,While being fed
+97.0,24.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.2,Single pregnancy,Male,6-9 months,11.0,0.0,In the crib with parental presence
+98.0,28.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Female,6-9 months,12.0,1.0,Alone in the crib
+99.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.4,Single pregnancy,Male,9-12 months,7.0,2.0,While being rocked
+100.0,34.0,In a relationship,Bachelor's degree or above in STEM field,38.5,Single pregnancy,Female,9-12 months,12.0,0.0,Alone in the crib
+101.0,23.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.0,Single pregnancy,Female,9-12 months,10.0,0.0,Alone in the crib
+102.0,27.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,6-9 months,10.0,4.0,While being fed
+103.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),37.0,Single pregnancy,Male,3-6 months,8.0,0.0,While being rocked
+104.0,28.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Female,3-6 months,9.0,2.0,While being fed
+105.0,27.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,9-12 months,11.0,1.0,Alone in the crib
+106.0,35.0,In a relationship,Bachelor's degree or above in STEM field,38.3,Single pregnancy,Female,9-12 months,9.5,1.0,While being rocked
+107.0,22.0,In a relationship,Post-compulsory education (i.e. apprenticeship),34.2,Single pregnancy,Male,3-6 months,10.0,2.0,While being held
+108.0,33.0,In a relationship,Bachelor's degree or above,27.5,Single pregnancy,Male,6-9 months,10.5,1.0,Alone in the crib
+109.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.4,Single pregnancy,Male,6-9 months,10.0,2.0,While being held
+110.0,32.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Female,3-6 months,9.0,2.0,Alone in the crib
+111.0,30.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Male,9-12 months,10.5,1.0,While being rocked
+112.0,29.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,9-12 months,11.0,1.0,In the crib with parental presence
+113.0,38.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.0,Single pregnancy,Male,3-6 months,10.5,0.0,Alone in the crib
+114.0,34.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Female,3-6 months,11.0,2.0,In the crib with parental presence
+115.0,31.0,In a relationship,Bachelor's degree or above in STEM field,40.6,Single pregnancy,Male,6-9 months,9.5,1.0,Alone in the crib
+116.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.4,Single pregnancy,Male,3-6 months,11.0,1.0,While being rocked
+117.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),35.0,Single pregnancy,Male,6-9 months,12.0,0.0,Alone in the crib
+118.0,29.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,6-9 months,10.0,3.0,In the crib with parental presence
+119.0,32.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,3-6 months,9.0,1.0,While being fed
+120.0,30.0,In a relationship,Bachelor's degree or above,38.4,Single pregnancy,Male,9-12 months,11.0,0.0,Alone in the crib
+121.0,33.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,3-6 months,10.0,2.0,In the crib with parental presence
+122.0,33.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.0,Single pregnancy,Male,3-6 months,10.0,0.0,While being fed
+123.0,31.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,3-6 months,11.0,2.0,Alone in the crib
+124.0,30.0,In a relationship,Bachelor's degree or above,38.1,Single pregnancy,Male,9-12 months,10.0,5.0,While being fed
+125.0,33.0,In a relationship,Bachelor's degree or above,39.2,Single pregnancy,Female,3-6 months,9.0,2.0,While being rocked
+126.0,31.0,In a relationship,Bachelor's degree or above in STEM field,40.0,Single pregnancy,Female,3-6 months,12.0,0.0,Alone in the crib
+127.0,27.0,In a relationship,Bachelor's degree or above in STEM field,40.0,Single pregnancy,Male,6-9 months,11.25,0.0,Alone in the crib
+128.0,33.0,In a relationship,Bachelor's degree or above in STEM field,39.4,Single pregnancy,Female,9-12 months,10.5,1.0,While being fed
+129.0,26.0,In a relationship,Compulsory education,40.3,Single pregnancy,Male,3-6 months,12.0,0.0,While being fed
+130.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.0,Single pregnancy,Female,6-9 months,10.0,1.0,While being fed
+131.0,36.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,3-6 months,7.0,1.0,While being fed
+132.0,29.0,In a relationship,Bachelor's degree or above,41.4,Single pregnancy,Male,3-6 months,10.0,4.0,While being rocked
+133.0,28.0,In a relationship,Bachelor's degree or above,38.1,Single pregnancy,Female,3-6 months,7.0,1.0,Alone in the crib
+134.0,35.0,"Separated, divorced or widowed",Bachelor's degree or above in STEM field,40.0,Single pregnancy,Male,9-12 months,11.0,0.0,Alone in the crib
+135.0,27.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.5,Single pregnancy,Female,6-9 months,12.0,1.0,While being held
+136.0,26.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.2,Single pregnancy,Female,9-12 months,8.0,2.0,In the crib with parental presence
+137.0,32.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.2,Single pregnancy,Female,6-9 months,10.0,1.0,While being rocked
+138.0,34.0,In a relationship,Post-compulsory education (i.e. apprenticeship),37.0,Twin pregnancy,Female,3-6 months,10.0,1.0,Alone in the crib
+139.0,31.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Female,9-12 months,11.5,0.0,In the crib with parental presence
+140.0,36.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.1,Single pregnancy,Female,3-6 months,8.0,1.0,While being fed
+141.0,32.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.4,Single pregnancy,Male,3-6 months,10.0,0.0,Alone in the crib
+142.0,32.0,In a relationship,Bachelor's degree or above,39.5,Single pregnancy,Male,6-9 months,10.5,1.0,Alone in the crib
+143.0,33.0,In a relationship,Post-compulsory education (i.e. apprenticeship),42.0,Single pregnancy,Male,6-9 months,11.0,1.0,Alone in the crib
+144.0,33.0,Single,Bachelor's degree or above,40.1,Single pregnancy,Male,9-12 months,10.0,1.0,While being held
+145.0,27.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.0,Single pregnancy,Female,6-9 months,10.0,0.0,Alone in the crib
+146.0,32.0,In a relationship,Bachelor's degree or above,39.1,Single pregnancy,Female,6-9 months,10.0,6.0,While being fed
+147.0,37.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Male,9-12 months,11.0,3.0,While being fed
+148.0,27.0,In a relationship,Bachelor's degree or above in STEM field,39.1,Single pregnancy,Female,3-6 months,12.0,1.0,Alone in the crib
+149.0,35.0,In a relationship,Post-compulsory education (i.e. apprenticeship),36.5,Single pregnancy,Female,6-9 months,10.0,2.0,While being fed
+150.0,28.0,In a relationship,Post-compulsory education (i.e. apprenticeship),36.5,Single pregnancy,Female,3-6 months,11.0,0.0,Alone in the crib
+151.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.6,Single pregnancy,Male,3-6 months,10.5,0.0,Alone in the crib
+152.0,34.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.2,Single pregnancy,Female,9-12 months,11.0,1.0,While being fed
+153.0,26.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.1,Single pregnancy,Male,6-9 months,7.0,1.0,Alone in the crib
+154.0,28.0,In a relationship,Bachelor's degree or above in STEM field,41.1,Single pregnancy,Male,9-12 months,12.0,0.0,Alone in the crib
+155.0,29.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Female,9-12 months,10.5,1.0,While being held
+156.0,32.0,In a relationship,Bachelor's degree or above in STEM field,40.5,Single pregnancy,Female,3-6 months,12.0,2.0,While being fed
+157.0,36.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.0,Single pregnancy,Male,3-6 months,10.0,1.0,While being rocked
+158.0,24.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Male,6-9 months,11.0,3.0,While being fed
+159.0,31.0,In a relationship,Bachelor's degree or above,39.3,Single pregnancy,Male,9-12 months,10.0,0.0,Alone in the crib
+160.0,28.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Female,3-6 months,9.5,0.0,While being fed
+161.0,39.0,In a relationship,Bachelor's degree or above in STEM field,39.3,Single pregnancy,Female,6-9 months,10.0,1.0,While being held
+162.0,36.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.3,Single pregnancy,Male,3-6 months,9.5,4.0,While being fed
+163.0,35.0,In a relationship,Bachelor's degree or above in STEM field,38.4,Single pregnancy,Female,9-12 months,12.0,1.0,Alone in the crib
+164.0,31.0,In a relationship,Compulsory education,38.4,Single pregnancy,Female,3-6 months,10.5,2.0,While being fed
+165.0,34.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,9-12 months,9.0,2.0,While being rocked
+166.0,28.0,In a relationship,Post-compulsory education (i.e. apprenticeship),37.0,Single pregnancy,Male,6-9 months,10.0,4.0,Alone in the crib
+167.0,27.0,In a relationship,Bachelor's degree or above in STEM field,39.2,Single pregnancy,Male,9-12 months,10.0,1.0,In the crib with parental presence
+168.0,32.0,In a relationship,Bachelor's degree or above,39.2,Single pregnancy,Male,9-12 months,10.0,3.0,In the crib with parental presence
+169.0,30.0,In a relationship,Bachelor's degree or above in STEM field,40.0,Single pregnancy,Female,3-6 months,10.0,2.0,Alone in the crib
+170.0,30.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Male,3-6 months,10.0,2.0,While being rocked
+171.0,33.0,In a relationship,Bachelor's degree or above,40.4,Single pregnancy,Female,3-6 months,10.0,3.0,In the crib with parental presence
+172.0,33.0,In a relationship,Bachelor's degree or above in STEM field,38.5,Single pregnancy,Male,9-12 months,10.0,3.0,Alone in the crib
+173.0,33.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Female,6-9 months,10.0,0.0,Alone in the crib
+174.0,32.0,In a relationship,Bachelor's degree or above,39.2,Single pregnancy,Male,6-9 months,12.0,0.0,Alone in the crib
+175.0,38.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.0,Single pregnancy,Female,9-12 months,12.0,1.0,Alone in the crib
+176.0,32.0,In a relationship,Bachelor's degree or above,39.6,Single pregnancy,Male,9-12 months,11.0,3.0,While being fed
+177.0,22.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.5,Single pregnancy,Male,6-9 months,7.0,1.0,While being rocked
+178.0,29.0,In a relationship,Bachelor's degree or above in STEM field,38.2,Single pregnancy,Male,9-12 months,11.0,0.0,Alone in the crib
+179.0,27.0,In a relationship,Bachelor's degree or above in STEM field,41.6,Single pregnancy,Male,9-12 months,12.0,1.0,Alone in the crib
+180.0,29.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Female,9-12 months,100.65,0.0,Alone in the crib
+181.0,31.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Female,6-9 months,12.0,0.0,Alone in the crib
+182.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.0,Single pregnancy,Male,9-12 months,10.0,3.0,Alone in the crib
+183.0,35.0,In a relationship,Bachelor's degree or above,39.4,Single pregnancy,Female,9-12 months,9.0,0.0,In the crib with parental presence
+184.0,29.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.4,Single pregnancy,Female,9-12 months,10.5,3.0,Alone in the crib
+185.0,20.0,In a relationship,Compulsory education,40.0,Single pregnancy,Male,3-6 months,11.0,3.0,In the crib with parental presence
+186.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Male,3-6 months,7.5,4.0,While being fed
+187.0,32.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,6-9 months,10.0,0.0,While being rocked
+188.0,31.0,In a relationship,Bachelor's degree or above,43.0,Single pregnancy,Female,6-9 months,11.0,4.0,Alone in the crib
+189.0,30.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,9-12 months,10.5,0.0,Alone in the crib
+190.0,29.0,In a relationship,Bachelor's degree or above in STEM field,37.5,Single pregnancy,Male,6-9 months,11.0,1.0,Alone in the crib
+191.0,33.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Female,6-9 months,9.0,2.0,In the crib with parental presence
+192.0,29.0,In a relationship,Bachelor's degree or above in STEM field,39.5,Single pregnancy,Male,3-6 months,10.0,1.0,Alone in the crib
+193.0,34.0,In a relationship,Bachelor's degree or above,40.5,Single pregnancy,Female,6-9 months,11.0,2.0,Alone in the crib
+194.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.1,Single pregnancy,Female,9-12 months,10.0,1.0,In the crib with parental presence
+195.0,39.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,6-9 months,10.0,0.0,While being fed
+196.0,34.0,"Separated, divorced or widowed",Bachelor's degree or above,40.1,Single pregnancy,Female,6-9 months,11.0,3.0,While being fed
+197.0,30.0,In a relationship,Bachelor's degree or above,35.6,Single pregnancy,Male,3-6 months,7.0,2.0,While being fed
+198.0,31.0,In a relationship,Bachelor's degree or above,39.5,Single pregnancy,Male,3-6 months,11.0,0.0,Alone in the crib
+199.0,36.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Female,3-6 months,10.0,0.0,While being rocked
+200.0,24.0,In a relationship,Bachelor's degree or above,36.6,Single pregnancy,Female,6-9 months,8.0,1.0,In the crib with parental presence
+201.0,32.0,In a relationship,Compulsory education,40.0,Single pregnancy,Female,3-6 months,10.5,0.0,Alone in the crib
+202.0,26.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.1,Single pregnancy,Female,3-6 months,10.0,0.0,In the crib with parental presence
+203.0,34.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.2,Single pregnancy,Male,6-9 months,11.0,1.0,While being held
+204.0,32.0,In a relationship,Bachelor's degree or above,41.4,Single pregnancy,Male,6-9 months,12.0,2.0,While being fed
+205.0,37.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,9-12 months,10.0,3.0,While being rocked
+206.0,32.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.0,Single pregnancy,Male,3-6 months,9.0,1.0,Alone in the crib
+207.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.0,Single pregnancy,Male,6-9 months,9.5,0.0,While being fed
+208.0,47.0,In a relationship,Post-compulsory education (i.e. apprenticeship),36.0,Single pregnancy,Female,6-9 months,12.0,1.0,While being fed
+209.0,28.0,In a relationship,Bachelor's degree or above,39.4,Single pregnancy,Female,3-6 months,12.0,1.0,In the crib with parental presence
+210.0,40.0,In a relationship,Post-compulsory education (i.e. apprenticeship),37.5,Single pregnancy,Female,9-12 months,11.0,0.0,Alone in the crib
+211.0,40.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Female,6-9 months,11.0,0.0,Alone in the crib
+212.0,35.0,In a relationship,Bachelor's degree or above,39.1,Single pregnancy,Female,9-12 months,11.0,0.0,Alone in the crib
+213.0,35.0,In a relationship,Bachelor's degree or above,40.3,Single pregnancy,Female,3-6 months,9.0,2.0,While being held
+214.0,31.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,6-9 months,12.0,0.0,While being fed
+215.0,34.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Male,3-6 months,10.0,1.0,Alone in the crib
+216.0,28.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.0,Single pregnancy,Female,9-12 months,11.0,0.0,Alone in the crib
+217.0,29.0,In a relationship,Bachelor's degree or above,39.5,Single pregnancy,Male,3-6 months,10.0,2.0,Alone in the crib
+218.0,29.0,In a relationship,Bachelor's degree or above in STEM field,41.1,Single pregnancy,Male,9-12 months,8.0,3.0,Alone in the crib
+219.0,33.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,3-6 months,12.0,2.0,Alone in the crib
+220.0,30.0,In a relationship,Bachelor's degree or above,40.4,Single pregnancy,Male,6-9 months,11.0,1.0,While being rocked
+221.0,26.0,In a relationship,Bachelor's degree or above in STEM field,39.5,Single pregnancy,Female,3-6 months,8.0,0.0,While being fed
+222.0,28.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,3-6 months,10.0,1.0,While being rocked
+223.0,26.0,In a relationship,Compulsory education,40.0,Single pregnancy,Female,3-6 months,9.0,0.0,Alone in the crib
+224.0,29.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,9-12 months,10.0,2.0,While being held
+225.0,37.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Male,3-6 months,9.0,0.0,While being held
+226.0,31.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,6-9 months,12.0,1.0,Alone in the crib
+227.0,33.0,In a relationship,Bachelor's degree or above in STEM field,38.6,Single pregnancy,Male,3-6 months,12.0,2.0,In the crib with parental presence
+228.0,32.0,In a relationship,Bachelor's degree or above,37.5,Single pregnancy,Female,3-6 months,6.0,5.0,While being fed
+229.0,32.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,6-9 months,10.0,1.0,While being held
+230.0,28.0,In a relationship,Compulsory education,40.0,Single pregnancy,Female,9-12 months,9.0,4.0,While being rocked
+231.0,31.0,In a relationship,Bachelor's degree or above,38.2,Single pregnancy,Female,6-9 months,9.0,1.0,While being fed
+232.0,27.0,In a relationship,Bachelor's degree or above,39.5,Single pregnancy,Female,6-9 months,10.0,1.0,Alone in the crib
+233.0,37.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.5,Single pregnancy,Female,6-9 months,12.0,1.0,In the crib with parental presence
+234.0,28.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Male,6-9 months,10.0,0.0,While being fed
+235.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Male,3-6 months,7.0,4.0,While being fed
+236.0,35.0,In a relationship,Bachelor's degree or above,39.3,Single pregnancy,Female,6-9 months,10.0,0.0,While being rocked
+237.0,33.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,9-12 months,10.0,10.0,In the crib with parental presence
+238.0,24.0,In a relationship,Compulsory education,26.5,Single pregnancy,Female,6-9 months,9.0,2.0,While being held
+239.0,40.0,In a relationship,Bachelor's degree or above in STEM field,41.1,Single pregnancy,Female,3-6 months,11.0,3.0,Alone in the crib
+240.0,33.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,9-12 months,11.0,10.0,While being fed
+241.0,31.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,3-6 months,9.0,0.0,While being rocked
+242.0,36.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Male,9-12 months,12.0,1.0,While being rocked
+243.0,31.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,6-9 months,10.0,0.0,Alone in the crib
+244.0,28.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,9-12 months,10.0,3.0,While being rocked
+245.0,28.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,3-6 months,10.0,0.0,While being rocked
+246.0,31.0,In a relationship,Bachelor's degree or above,41.5,Single pregnancy,Female,9-12 months,11.0,2.0,In the crib with parental presence
+247.0,34.0,In a relationship,Bachelor's degree or above,36.0,Single pregnancy,Female,6-9 months,10.0,2.0,While being rocked
+248.0,30.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Female,3-6 months,9.0,1.0,While being rocked
+249.0,30.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,9-12 months,10.0,2.0,In the crib with parental presence
+250.0,26.0,In a relationship,Compulsory education,40.3,Single pregnancy,Male,3-6 months,11.0,3.0,While being fed
+251.0,30.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,3-6 months,11.0,0.0,Alone in the crib
+252.0,40.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,6-9 months,11.0,1.0,While being rocked
+253.0,35.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,3-6 months,9.5,1.0,While being rocked
+254.0,27.0,In a relationship,Bachelor's degree or above,39.3,Single pregnancy,Male,3-6 months,10.0,2.0,While being rocked
+255.0,24.0,In a relationship,Bachelor's degree or above,38.5,Single pregnancy,Female,9-12 months,10.5,2.0,In the crib with parental presence
+256.0,28.0,In a relationship,Bachelor's degree or above,38.2,Single pregnancy,Male,3-6 months,10.0,1.0,In the crib with parental presence
+257.0,30.0,In a relationship,Bachelor's degree or above in STEM field,38.5,Single pregnancy,Female,3-6 months,10.5,2.0,While being rocked
+258.0,33.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,6-9 months,9.0,1.0,While being rocked
+259.0,30.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,3-6 months,9.0,1.0,While being fed
+260.0,33.0,In a relationship,Bachelor's degree or above,40.2,Single pregnancy,Female,6-9 months,11.0,5.0,While being held
+261.0,32.0,In a relationship,Bachelor's degree or above,37.3,Single pregnancy,Female,3-6 months,7.5,1.0,While being fed
+262.0,32.0,In a relationship,Bachelor's degree or above,41.5,Single pregnancy,Female,3-6 months,12.0,2.0,Alone in the crib
+263.0,27.0,In a relationship,Bachelor's degree or above,40.3,Single pregnancy,Female,6-9 months,9.5,3.0,In the crib with parental presence
+264.0,40.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Male,3-6 months,8.0,1.0,While being rocked
+265.0,33.0,In a relationship,Bachelor's degree or above,41.4,Single pregnancy,Female,9-12 months,11.0,4.0,Alone in the crib
+266.0,31.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,9-12 months,12.0,0.0,Alone in the crib
+267.0,32.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,3-6 months,10.0,5.0,While being fed
+268.0,42.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,9-12 months,12.0,5.0,While being fed
+269.0,34.0,In a relationship,Bachelor's degree or above in STEM field,35.6,Single pregnancy,Female,6-9 months,10.0,1.0,Alone in the crib
+270.0,25.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,6-9 months,10.0,1.0,While being rocked
+271.0,31.0,In a relationship,Bachelor's degree or above,40.2,Single pregnancy,Male,3-6 months,9.0,2.0,Alone in the crib
+272.0,27.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Male,3-6 months,9.0,5.0,While being fed
+273.0,32.0,In a relationship,Bachelor's degree or above,38.4,Single pregnancy,Male,6-9 months,10.0,2.0,While being fed
+274.0,33.0,In a relationship,Bachelor's degree or above,39.5,Single pregnancy,Male,3-6 months,10.0,3.0,Alone in the crib
+275.0,27.0,In a relationship,Bachelor's degree or above,38.5,Single pregnancy,Male,6-9 months,10.0,3.0,While being fed
+276.0,29.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,9-12 months,8.5,2.0,While being fed
+277.0,30.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Male,6-9 months,11.0,3.0,Alone in the crib
+278.0,29.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,6-9 months,10.0,2.0,While being rocked
+279.0,29.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Male,9-12 months,8.0,4.0,In the crib with parental presence
+280.0,32.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Male,9-12 months,8.0,8.0,While being fed
+281.0,31.0,In a relationship,Bachelor's degree or above,42.5,Single pregnancy,Female,3-6 months,11.0,3.0,Alone in the crib
+282.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.2,Single pregnancy,Female,3-6 months,7.0,1.0,While being fed
+283.0,30.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,3-6 months,10.0,0.0,While being held
+284.0,20.0,In a relationship,Compulsory education,39.0,Single pregnancy,Female,3-6 months,10.0,2.0,While being fed
+285.0,34.0,In a relationship,Bachelor's degree or above in STEM field,37.2,Single pregnancy,Male,6-9 months,10.0,1.0,In the crib with parental presence
+286.0,23.0,In a relationship,Post-compulsory education (i.e. apprenticeship),37.0,Single pregnancy,Female,9-12 months,10.0,1.0,Alone in the crib
+287.0,34.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,6-9 months,10.0,2.0,While being fed
+288.0,28.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.4,Single pregnancy,Female,9-12 months,11.5,4.0,While being rocked
+289.0,28.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.0,Single pregnancy,Female,9-12 months,12.0,4.0,In the crib with parental presence
+290.0,28.0,In a relationship,Bachelor's degree or above,41.3,Single pregnancy,Female,3-6 months,10.0,0.0,While being rocked
+291.0,31.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Female,3-6 months,10.0,1.0,Alone in the crib
+292.0,33.0,In a relationship,Post-compulsory education (i.e. apprenticeship),34.4,Single pregnancy,Female,9-12 months,6.0,4.0,While being fed
+293.0,35.0,In a relationship,Bachelor's degree or above,38.5,Single pregnancy,Female,3-6 months,11.0,0.0,Alone in the crib
+294.0,29.0,In a relationship,Bachelor's degree or above,43.0,Single pregnancy,Male,3-6 months,9.0,2.0,While being rocked
+295.0,25.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,6-9 months,10.0,0.0,While being fed
+296.0,28.0,In a relationship,Bachelor's degree or above,40.3,Single pregnancy,Female,9-12 months,11.0,2.0,While being rocked
+297.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Male,3-6 months,12.0,4.0,In the crib with parental presence
+298.0,24.0,In a relationship,Bachelor's degree or above,40.3,Single pregnancy,Male,6-9 months,11.0,2.0,While being fed
+299.0,33.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,9-12 months,12.0,1.0,While being rocked
+300.0,30.0,In a relationship,Compulsory education,39.0,Single pregnancy,Female,9-12 months,9.0,1.0,In the crib with parental presence
+301.0,26.0,"Separated, divorced or widowed",Bachelor's degree or above,36.0,Single pregnancy,Female,9-12 months,11.0,3.0,While being fed
+302.0,29.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,9-12 months,10.5,2.0,Alone in the crib
+303.0,34.0,In a relationship,Bachelor's degree or above,39.5,Single pregnancy,Male,3-6 months,8.0,3.0,While being rocked
+304.0,36.0,In a relationship,Bachelor's degree or above,36.3,Single pregnancy,Female,3-6 months,10.0,0.0,While being rocked
+305.0,37.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.3,Single pregnancy,Female,9-12 months,12.0,0.0,While being rocked
+306.0,26.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,9-12 months,8.0,2.0,While being fed
+307.0,32.0,In a relationship,Bachelor's degree or above,41.1,Single pregnancy,Male,9-12 months,10.5,5.0,Alone in the crib
+308.0,38.0,"Separated, divorced or widowed",Bachelor's degree or above,39.0,Single pregnancy,Male,6-9 months,9.0,1.0,While being rocked
+309.0,37.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,3-6 months,10.0,2.0,While being held
+310.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Female,6-9 months,9.0,1.0,While being held
+311.0,27.0,In a relationship,Bachelor's degree or above in STEM field,40.0,Single pregnancy,Male,3-6 months,11.0,0.0,While being rocked
+312.0,25.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.0,Single pregnancy,Male,3-6 months,10.0,5.0,In the crib with parental presence
+313.0,24.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,3-6 months,10.0,2.0,Alone in the crib
+314.0,30.0,In a relationship,Bachelor's degree or above,34.0,Single pregnancy,Male,6-9 months,10.0,0.0,Alone in the crib
+315.0,30.0,In a relationship,Bachelor's degree or above,39.1,Single pregnancy,Female,3-6 months,9.0,0.0,While being fed
+316.0,28.0,In a relationship,Bachelor's degree or above,37.5,Single pregnancy,Female,6-9 months,10.0,0.0,Alone in the crib
+317.0,30.0,In a relationship,Post-compulsory education (i.e. apprenticeship),34.6,Single pregnancy,Female,6-9 months,12.0,0.0,Alone in the crib
+318.0,27.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,3-6 months,12.0,0.0,Alone in the crib
+319.0,26.0,In a relationship,Bachelor's degree or above,40.2,Single pregnancy,Female,6-9 months,11.0,1.0,While being held
+320.0,29.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.0,Single pregnancy,Male,3-6 months,10.5,3.0,While being rocked
+321.0,23.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.0,Single pregnancy,Male,6-9 months,7.0,5.0,Alone in the crib
+322.0,21.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.6,Single pregnancy,Male,3-6 months,10.0,1.0,While being fed
+323.0,28.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Male,3-6 months,12.0,0.0,Alone in the crib
+324.0,37.0,In a relationship,Bachelor's degree or above,37.0,Twin pregnancy,Female,6-9 months,8.0,1.0,In the crib with parental presence
+325.0,32.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,6-9 months,11.0,0.0,Alone in the crib
+326.0,26.0,In a relationship,Bachelor's degree or above in STEM field,40.0,Single pregnancy,Male,3-6 months,5.0,7.0,While being fed
+327.0,42.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Female,6-9 months,12.0,1.0,Alone in the crib
+328.0,22.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Female,3-6 months,11.5,0.0,Alone in the crib
+329.0,23.0,In a relationship,Compulsory education,41.0,Single pregnancy,Female,6-9 months,10.0,1.0,Alone in the crib
+330.0,20.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.4,Single pregnancy,Male,3-6 months,7.0,1.0,Alone in the crib
+331.0,31.0,In a relationship,Bachelor's degree or above in STEM field,41.5,Single pregnancy,Male,3-6 months,11.0,0.0,While being rocked
+332.0,25.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,6-9 months,11.0,0.0,Alone in the crib
+333.0,25.0,In a relationship,Bachelor's degree or above in STEM field,41.1,Single pregnancy,Male,3-6 months,11.5,0.0,In the crib with parental presence
+334.0,34.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,6-9 months,11.0,1.0,Alone in the crib
+335.0,31.0,In a relationship,Bachelor's degree or above,36.7,Single pregnancy,Male,3-6 months,10.5,0.0,Alone in the crib
+336.0,29.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,6-9 months,10.5,1.0,Alone in the crib
+337.0,29.0,In a relationship,Bachelor's degree or above,39.6,Single pregnancy,Female,3-6 months,10.0,1.0,While being fed
+338.0,24.0,In a relationship,Bachelor's degree or above in STEM field,39.5,Single pregnancy,Female,6-9 months,12.0,0.0,Alone in the crib
+339.0,31.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,9-12 months,8.0,5.0,While being fed
+340.0,28.0,Single,Bachelor's degree or above,40.6,Single pregnancy,Male,3-6 months,10.0,5.0,Alone in the crib
+341.0,31.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,9-12 months,12.0,0.0,Alone in the crib
+342.0,27.0,In a relationship,Bachelor's degree or above in STEM field,33.6,Twin pregnancy,Female,9-12 months,12.0,0.0,Alone in the crib
+343.0,36.0,In a relationship,Post-compulsory education (i.e. apprenticeship),37.2,Single pregnancy,Female,6-9 months,9.0,4.0,While being fed
+344.0,25.0,In a relationship,Bachelor's degree or above in STEM field,37.0,Single pregnancy,Female,9-12 months,9.0,0.0,While being rocked
+345.0,37.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.2,Single pregnancy,Female,3-6 months,10.0,0.0,Alone in the crib
+346.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Male,6-9 months,11.0,2.0,Alone in the crib
+347.0,22.0,Single,Compulsory education,37.0,Single pregnancy,Female,6-9 months,8.5,0.0,Alone in the crib
+348.0,27.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Male,9-12 months,10.5,0.0,Alone in the crib
+349.0,34.0,In a relationship,Bachelor's degree or above in STEM field,40.5,Single pregnancy,Female,9-12 months,12.0,0.0,Alone in the crib
+350.0,27.0,In a relationship,Bachelor's degree or above in STEM field,37.0,Single pregnancy,Male,6-9 months,11.0,1.0,Alone in the crib
+351.0,24.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.0,Single pregnancy,Male,3-6 months,8.0,1.0,While being held
+352.0,26.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.0,Single pregnancy,Male,9-12 months,12.0,0.0,Alone in the crib
+353.0,32.0,In a relationship,Post-compulsory education (i.e. apprenticeship),37.4,Single pregnancy,Male,6-9 months,10.0,2.0,In the crib with parental presence
+354.0,35.0,In a relationship,Bachelor's degree or above,39.7,Single pregnancy,Male,6-9 months,10.5,1.0,Alone in the crib
+355.0,31.0,"Separated, divorced or widowed",Post-compulsory education (i.e. apprenticeship),34.0,Single pregnancy,Female,3-6 months,9.5,0.0,While being fed
+356.0,32.0,In a relationship,Bachelor's degree or above,34.3,Twin pregnancy,Female,3-6 months,10.0,1.0,While being rocked
+357.0,29.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Female,3-6 months,11.0,0.0,Alone in the crib
+358.0,26.0,In a relationship,Bachelor's degree or above,41.2,Single pregnancy,Female,3-6 months,12.0,1.0,Alone in the crib
+359.0,23.0,In a relationship,Post-compulsory education (i.e. apprenticeship),37.5,Single pregnancy,Female,6-9 months,11.5,0.0,Alone in the crib
+360.0,29.0,In a relationship,Bachelor's degree or above,41.2,Single pregnancy,Male,6-9 months,8.0,1.0,While being rocked
+361.0,27.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,3-6 months,10.0,3.0,While being fed
+362.0,26.0,In a relationship,Bachelor's degree or above,40.4,Single pregnancy,Female,3-6 months,12.0,6.0,While being fed
+363.0,34.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.0,Single pregnancy,Male,6-9 months,12.0,0.0,Alone in the crib
+364.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.2,Single pregnancy,Male,3-6 months,6.0,2.0,While being fed
+365.0,25.0,In a relationship,Bachelor's degree or above,38.5,Single pregnancy,Male,3-6 months,8.0,3.0,While being fed
+366.0,32.0,In a relationship,Post-compulsory education (i.e. apprenticeship),35.4,Single pregnancy,Female,3-6 months,10.0,0.0,In the crib with parental presence
+367.0,31.0,In a relationship,Bachelor's degree or above,39.5,Single pregnancy,Male,3-6 months,10.0,1.0,While being rocked
+368.0,35.0,In a relationship,Bachelor's degree or above in STEM field,39.4,Single pregnancy,Female,3-6 months,7.0,5.0,While being fed
+369.0,34.0,Single,Post-compulsory education (i.e. apprenticeship),37.0,Single pregnancy,Male,3-6 months,11.0,1.0,Alone in the crib
+370.0,19.0,In a relationship,Post-compulsory education (i.e. apprenticeship),38.0,Single pregnancy,Female,6-9 months,9.0,1.0,In the crib with parental presence
+371.0,24.0,In a relationship,Bachelor's degree or above in STEM field,41.1,Single pregnancy,Male,3-6 months,12.0,0.0,While being rocked
+372.0,29.0,In a relationship,Compulsory education,38.2,Single pregnancy,Male,3-6 months,11.0,2.0,While being fed
+373.0,37.0,In a relationship,Bachelor's degree or above in STEM field,37.0,Single pregnancy,Female,6-9 months,10.0,2.0,While being rocked
+374.0,32.0,In a relationship,Bachelor's degree or above in STEM field,38.0,Single pregnancy,Female,3-6 months,12.0,0.0,Alone in the crib
+375.0,26.0,In a relationship,Bachelor's degree or above,40.2,Single pregnancy,Male,3-6 months,5.0,3.0,While being rocked
+376.0,26.0,In a relationship,Post-compulsory education (i.e. apprenticeship),41.4,Single pregnancy,Male,3-6 months,11.0,0.0,While being fed
+377.0,31.0,In a relationship,Bachelor's degree or above,41.0,Single pregnancy,Female,9-12 months,8.0,2.0,While being fed
+378.0,29.0,In a relationship,Bachelor's degree or above in STEM field,41.0,Single pregnancy,Male,6-9 months,11.0,1.0,Alone in the crib
+379.0,41.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.4,Single pregnancy,Female,3-6 months,10.0,0.0,Alone in the crib
+380.0,29.0,In a relationship,Bachelor's degree or above,35.0,Single pregnancy,Male,9-12 months,7.0,2.0,In the crib with parental presence
+381.0,32.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,3-6 months,9.0,0.0,In the crib with parental presence
+382.0,31.0,In a relationship,Bachelor's degree or above,40.0,Single pregnancy,Female,3-6 months,10.0,1.0,Alone in the crib
+383.0,24.0,Single,Compulsory education,37.6,Single pregnancy,Male,9-12 months,11.0,1.0,In the crib with parental presence
+384.0,28.0,In a relationship,Bachelor's degree or above in STEM field,42.0,Single pregnancy,Female,9-12 months,9.0,0.0,Alone in the crib
+385.0,25.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,3-6 months,10.0,2.0,While being fed
+386.0,27.0,In a relationship,Bachelor's degree or above,42.0,Single pregnancy,Female,3-6 months,9.0,1.0,While being rocked
+387.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Female,6-9 months,11.0,2.0,Alone in the crib
+388.0,31.0,In a relationship,Bachelor's degree or above,41.6,Single pregnancy,Female,3-6 months,10.5,2.0,While being fed
+389.0,27.0,In a relationship,Post-compulsory education (i.e. apprenticeship),40.0,Single pregnancy,Female,3-6 months,6.0,2.0,While being fed
+390.0,32.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Female,3-6 months,9.0,0.0,Alone in the crib
+391.0,29.0,In a relationship,Bachelor's degree or above in STEM field,40.0,Single pregnancy,Female,9-12 months,10.5,0.0,Alone in the crib
+392.0,29.0,In a relationship,Post-compulsory education (i.e. apprenticeship),42.0,Single pregnancy,Male,9-12 months,12.0,0.0,While being rocked
+393.0,23.0,In a relationship,Compulsory education,38.5,Single pregnancy,Female,9-12 months,12.0,1.0,Alone in the crib
+394.0,27.0,In a relationship,Post-compulsory education (i.e. apprenticeship),36.3,Single pregnancy,Male,6-9 months,10.0,2.0,While being rocked
+395.0,36.0,In a relationship,Bachelor's degree or above in STEM field,39.0,Single pregnancy,Male,6-9 months,10.0,3.0,Alone in the crib
+396.0,30.0,In a relationship,Bachelor's degree or above,41.2,Single pregnancy,Female,9-12 months,10.0,2.0,While being held
+397.0,28.0,In a relationship,Compulsory education,40.6,Single pregnancy,Male,3-6 months,10.0,1.0,Alone in the crib
+398.0,32.0,In a relationship,Bachelor's degree or above,37.0,Single pregnancy,Male,9-12 months,11.0,0.0,While being rocked
+399.0,28.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Female,3-6 months,10.0,1.0,Alone in the crib
+400.0,31.0,In a relationship,Bachelor's degree or above in STEM field,42.0,Single pregnancy,Female,3-6 months,10.0,2.0,While being held
+401.0,25.0,In a relationship,Compulsory education,40.5,Single pregnancy,Male,3-6 months,12.0,1.0,While being rocked
+402.0,27.0,In a relationship,Bachelor's degree or above,40.4,Single pregnancy,Female,9-12 months,10.0,0.0,Alone in the crib
+403.0,33.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Male,9-12 months,11.5,2.0,Alone in the crib
+404.0,25.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.0,Single pregnancy,Female,3-6 months,10.0,2.0,While being fed
+405.0,28.0,In a relationship,Compulsory education,41.0,Single pregnancy,Female,9-12 months,10.5,0.0,In the crib with parental presence
+406.0,31.0,In a relationship,Post-compulsory education (i.e. apprenticeship),39.5,Single pregnancy,Male,6-9 months,9.0,1.0,While being rocked
+407.0,26.0,In a relationship,Compulsory education,37.0,Single pregnancy,Male,6-9 months,12.0,0.0,Alone in the crib
+408.0,26.0,In a relationship,Bachelor's degree or above,39.0,Single pregnancy,Female,3-6 months,10.0,2.0,In the crib with parental presence
+409.0,27.0,In a relationship,Bachelor's degree or above,41.2,Single pregnancy,Female,3-6 months,11.5,0.0,Alone in the crib
+410.0,31.0,In a relationship,Bachelor's degree or above,38.0,Single pregnancy,Male,6-9 months,12.0,0.0,Alone in the crib
